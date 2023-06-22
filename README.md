@@ -11,14 +11,21 @@ Interface to collect, process and visualize tweets.
   
 ## Install
 With a prompt in current directory files type the command below to install dependencies:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 
 ## Run
 With a prompt in current directory files type the command below to run application:
-```python main.py --disable-web-security```
+```
+python main.py --disable-web-security
+```
 
 # About the Authors
 
 - Pedro Prokath Wagner
+- Anderson R. P. Sprenger -- Reseacher of DaVInt.
+- Gabriel Z. de Souza -- Reseacher of DaVInt.
+- Vinícius P. Dias -- Reseacher of DaVInt.
 - Isabel H. Manssour -- Professor Coordinator of DaVInt.
